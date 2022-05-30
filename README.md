@@ -1,3 +1,4 @@
+
 # gruppenarbeit2
 Name: Steffen
 ALter: 25
@@ -19,3 +20,5 @@ Für die Füllung:
 2	Zwiebel(n)
 Salz und Pfeffer, schwarzer
 Knoblauch, nach Bedarf
+hallo ich bin ali, 29 Jahre alt. komme aus der Türkei.
+# gruppenarbeit2
